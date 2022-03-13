@@ -1,0 +1,3 @@
+employee = [2068,"Priyanka Priyadarsini Pani ","MCD1","INDIA"]
+print(" The employee id is : ", employee[0], "\n Employee name is : ", employee[1])
+print(" Employee department is : ", employee[2], "\n Employee country is : ", employee[3])
